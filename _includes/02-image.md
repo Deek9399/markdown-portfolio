@@ -1,1 +1,1 @@
-![Deeksha Tiwari](https://twitter.com/deeksha259/photo)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
